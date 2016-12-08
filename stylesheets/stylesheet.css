@@ -81,7 +81,9 @@ a {
 .project-name {
   font-family: "Ubuntu-title";
   margin-top: 0;
-  margin-bottom: 0.1rem; }
+  margin-bottom: 0.1rem; 
+  letter-spacing: 2px;
+}
 
 @media screen and (min-width: 64em) {
   .project-name {

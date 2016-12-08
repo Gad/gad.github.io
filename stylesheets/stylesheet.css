@@ -73,7 +73,7 @@ a {
 
 @font-face {
     font-family: Ubuntu-title;
-    src: url("../../Gad/Ubuntu-Title.ttf") format('truetype');
+    src: url("Ubuntu-Title.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
   }

@@ -71,7 +71,15 @@ a {
   .page-header {
     padding: 2rem 1rem; } }
 
+@font-face {
+    font-family: Ubuntu-title;
+    src: url("../gad/Ubuntu-Title.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
 .project-name {
+  font-family: Ubuntu-title;
   margin-top: 0;
   margin-bottom: 0.1rem; }
 

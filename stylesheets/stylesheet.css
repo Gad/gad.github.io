@@ -4,7 +4,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Ubuntu-title", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family:  "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
@@ -79,7 +79,7 @@ a {
   }
 
 .project-name {
-  font-family: Ubuntu-title;
+  font-family: "Ubuntu-title";
   margin-top: 0;
   margin-bottom: 0.1rem; }
 
